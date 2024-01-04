@@ -18,7 +18,7 @@ aws configure
 
 ```bash
 git clone https://github.com/harshartz/AWS-Terraform-Automation.git
-cd terraform-aws-lambda-s3-event/terraform
+cd AWS-Terraform-Automation/terraform
 ```
 
 2. Edit the `var.tf` file to provide the necessary values. Update the AWS region and choose a globally unique S3 bucket name.
